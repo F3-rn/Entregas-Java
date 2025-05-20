@@ -1,2 +1,6 @@
 eclipse.preferences.version=1
+encoding//aeropuertos/aerolineas.csv=UTF-8
+encoding//aeropuertos/aeropuertos.csv=UTF-8
+encoding//aeropuertos/vuelos.csv=UTF-8
+encoding//aeropuertos/vuelosProgramados.csv=UTF-8
 encoding/<project>=UTF-8

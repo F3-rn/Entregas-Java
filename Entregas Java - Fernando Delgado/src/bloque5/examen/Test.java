@@ -4,7 +4,7 @@ import java.util.Map;
 
 public class Test {
 
-    public static void main(String[] args) {
+       public static void main(String[] args) {
         // CLIENTES
         Cliente ana = Cliente.of("Ana", 5);
         Cliente juan = Cliente.of("Juan", 2);
